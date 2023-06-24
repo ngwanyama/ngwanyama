@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ngwanyama
-- 👀 I’m interested in learning git
-- 🌱 I’m currently learning creating repositories 
-- 💞️ I’m looking to collaborate on more projects 
+hello world
 - 📫 
 
 <!---
